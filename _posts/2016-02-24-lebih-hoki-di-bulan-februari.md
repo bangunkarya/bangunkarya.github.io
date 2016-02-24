@@ -5,6 +5,7 @@ date: 2016-02-24
 ---
 <h2>Imlek Tiba, Bagaimana Terawang Kariermu di Tahun Monyet Api?</h2>
 Horoskop Tiongkok menyebutkan tahun ini disebut tahun Monyet Api. Nah, bagaimana peruntungan karier dan keuanganmu berdasarkan shio yang dimiliki?
+<!--more-->
 <h2>Mau Beli Perhiasan untuk Hadiah Si Dia Ketika Valentine Nanti? Ini Strateginya!</h2>
 Tidak sekadar pilih kemudian bayar. Membeli perhiasan punya strategi khusus agar kamu bisa lebih untung. Maksudnya, agar mahalnya harga tidak menganggu usaha penghematan.
 <h2>Yang Bisa Bikin Pengeluaranmu Membengkak di 2016</h2>
