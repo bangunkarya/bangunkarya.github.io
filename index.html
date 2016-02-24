@@ -4,12 +4,9 @@ title: Beranda - bangunkarya.github.io
 ---
 <div class="blurb">
 	<h1>Bangunkarya</h1>
-	<h2>Selamat Datang!</h2>
-	<p>Anda berada di beranda <a href="/">bangunkarya.github.io</a>.</p>
-	<h2>Arsip Pos</h2>
 	<ul class="posts">
 		{% for post in site.posts %}
-			<li><h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>{% if post.excerpt %}{{ post.excerpt }}{% endif %}</li>
+			<li><h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>{% if post.excerpt %}{{ post.excerpt }}{% endif %}</li>
 		{% endfor %}
 	</ul>
 	<!-- Pagination links -->
