@@ -3,12 +3,13 @@ layout: default
 title: Beranda - bangunkarya.github.io
 ---
 <div class="blurb">
-	<h1>Selamat Datang!</h1>
+	<h1>Bangunkarya</h1>
+	<h2>Selamat Datang!</h2>
 	<p>Anda berada di beranda <a href="/">bangunkarya.github.io</a>.</p>
-	<h1>Arsip Pos</h1>
+	<h2>Arsip Pos</h2>
 	<ul class="posts">
 		{% for post in site.posts %}
-			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.excerpt %}{{ post.excerpt }}{% endif %}</li>
+			<li><h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>{% if post.excerpt %}{{ post.excerpt }}{% endif %}</li>
 		{% endfor %}
 	</ul>
 	<!-- Pagination links -->
