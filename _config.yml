@@ -1,3 +1,4 @@
 name: bangunkarya
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title.html
+excerpt_separator: <!--more-->
